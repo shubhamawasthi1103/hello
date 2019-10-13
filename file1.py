@@ -1,4 +1,7 @@
 print("Hello World")
 print("I am Shubham")
-priny("Hii ")
+print("Hii ")
+def add(x,y):
+    return(x+y)
+print(add(1,2))
 
